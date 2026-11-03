@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  I'm expanding my skills in <strong>Cloud Engineering, DevOps, Infrastructure as Code (IaC), and modern data platforms</strong>, combining my database experience with cloud technologies and automation to build reliable, secure, and scalable infrastructure.
+  I'm expanding my skills in <strong>Cloud Engineering, DevOps, Automation and modern data platforms</strong>, combining my database experience with cloud technologies and automation to build reliable, secure, and scalable infrastructure.
 </p>
 
 <p align="center">
