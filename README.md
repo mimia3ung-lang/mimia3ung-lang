@@ -1,10 +1,14 @@
 <h1 align="center">Hi, I'm Me Me Aung 👋</h1>
 
-<h3 align="center">Senior Database Administrator • Database Engineer • Database Reliability</h3>
+<h3 align="center"> Database Administrator • Database Engineer • Database Reliability</h3>
 
 <p align="center">
-  Oracle DBA with <b>10+ years</b> of experience in banking and manufacturing.<br/>
-  I keep critical databases <b>fast, secure, and always available</b> with high availability, disaster recovery, and automation.
+I bring 9+ years of experience supporting enterprise database environments across banking and semiconductor industries, with a focus on **mission-critical systems, 24/7 production support, business continuity, and high availability**.
+
+My expertise spans Oracle, PostgreSQL, MySQL, and SQL Server, including performance tuning, HA/DR, database migrations, monitoring, and automation.
+
+I'm expanding my skills in **Cloud Engineering, DevOps, Infrastructure as Code, and modern data platforms**, combining my database experience with cloud technologies and automation to build reliable, secure, and scalable infrastructure.
+
 </p>
 
 <p align="center">
