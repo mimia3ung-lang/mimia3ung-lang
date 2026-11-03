@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  Oracle is my main platform (RAC, Data Guard, GoldenGate, OCI).<br/>
-  I also work with <b>PostgreSQL, MySQL, and SQL Server</b>.
+  My expertise spans Oracle, PostgreSQL, MySQL and SQL Server.<br/>
 </p>
 
 <p align="center">
