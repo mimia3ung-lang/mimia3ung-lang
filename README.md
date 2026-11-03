@@ -1,18 +1,22 @@
 <h1 align="center">Hi, I'm Me Me Aung 👋</h1>
 
-<h3 align="center"> Database Administrator • Database Engineer • Database Reliability Engineer</h3>
+<h3 align="center">Senior Database Administrator • Database Engineer • Database Reliability Engineer</h3>
 
 <p align="center">
-  Database administration with <b>10 years</b> of experience in banking and semiconductor sectors.<br/>
+  Oracle DBA with <b>10+ years</b> of experience in banking and semiconductor manufacturing.<br/>
   I keep <b>mission-critical databases available 24/7</b> with high availability, disaster recovery, performance tuning, and automation.<br/>
+  For example, I upgraded <b>50+ databases to Oracle 19c in 6 months</b> with zero business impact.
 </p>
 
 <p align="center">
-  My expertise spans Oracle, PostgreSQL, MySQL and SQL Server.<br/>
+  Oracle is my main platform (RAC, Data Guard, GoldenGate, OCI).<br/>
+  I also work with <b>PostgreSQL, MySQL, and SQL Server</b>.
 </p>
 
 <p align="center">
-  I'm expanding my skills in <strong>Cloud Engineering, DevOps, Automation and modern data platforms</strong>, combining my database experience with cloud technologies and automation to build reliable, secure, and scalable infrastructure.
+  I am completing a <b>Master of Computer and Information Sciences</b> at Auckland University of Technology.<br/>
+  At the same time, I am building skills in <b>Terraform, Kubernetes, and cloud automation</b><br/>
+  to grow into database reliability and cloud database engineering.
 </p>
 
 <p align="center">
@@ -20,7 +24,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Database-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Database-Learning-6E40C9?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -39,8 +43,9 @@
 ## 🧭 About me
 
 - 💼 **10+ years** managing Oracle databases, from legacy 10g/11g to 19c and Oracle Cloud (OCI)
+- 🎓 Studying: **Master of Computer and Information Sciences** at Auckland University of Technology
 - 🔭 Currently working on: **public labs for Oracle backup, Data Guard monitoring, and Oracle-to-PostgreSQL migration** (sample data only)
-- 🌱 Currently learning: **PostgreSQL, vector databases (pgvector), Python, and Prometheus/Grafana monitoring**
+- 🌱 Currently learning: **PostgreSQL, vector databases (pgvector), Python, Terraform, Kubernetes, and Prometheus/Grafana monitoring**
 - 📍 Based in: **Auckland, New Zealand** | Open to: **remote roles**
 - 🎯 Looking for: **Senior DBA, Database Engineer, or Database Reliability Engineer roles**
 
@@ -65,11 +70,13 @@
 **Oracle:** 19c · 12c · 11g · 10g · RAC · ASM · Data Guard · GoldenGate · Exadata · RMAN · Data Pump · TDE
 **Performance and monitoring:** AWR · ADDM · ASH · Oracle Enterprise Manager (OEM) 13c
 **Other databases:** PostgreSQL · MySQL · SQL Server
-**Cloud:** Oracle Cloud Infrastructure (OCI) · AWS · Google Cloud Platform (GCP)
+**Cloud:** Oracle Cloud Infrastructure (OCI) · AWS · Microsoft Azure
+**Infrastructure as Code:** Terraform
+**Containers and orchestration:** Docker · Kubernetes
 **Operating systems:** Linux (Red Hat, Oracle Linux) · Unix · Windows Server
 **Automation:** Shell scripting · Ansible · Control-M · Actifio
 **Service management:** ServiceNow · ITIL processes
-**Learning now:** pgvector · Python · Prometheus · Grafana · Terraform
+**Learning now:** pgvector · Python · Prometheus · Grafana
 
 ---
 
@@ -107,6 +114,7 @@ I am building small public labs with **sample data only**. No company code or da
 | **oracle-to-postgres-migration-lab** | Step-by-step migration with lessons learned | Oracle, PostgreSQL, ora2pg | 🚧 Planned |
 | **awr-tuning-playbook** | Slow query examples, AWR analysis, and fixes | Oracle, SQL | 🚧 Planned |
 | **db-monitoring-stack** | Database health dashboards and alerts | Prometheus, Grafana, Docker | 🚧 Planned |
+| **db-infra-terraform-lab** | Database infrastructure as code on the cloud | Terraform, Azure / AWS | 🚧 Planned |
 
 ---
 
@@ -120,18 +128,24 @@ I am building small public labs with **sample data only**. No company code or da
 - ✅ Oracle Database 11g: Administration II (OCP)
 - ✅ Oracle Database 11g: Administration I (OCA)
 
-🎓**Education:**
-- Master of Computer and Information Sciences, Auckland University of Technology, New Zealand
+---
+
+## 🎓 Education
+
+- Master of Computer and Information Sciences, Auckland University of Technology, New Zealand *(in progress)*
 - Bachelor of Computer Science, University of Computer Studies, Thaton, Myanmar
 
 ---
 
-## 📚 What I believe in
+## 🛡️ My approach to reliability
+
+I believe in a careful, automation-first approach to database operations. My goal is stable systems that recover quickly and need less manual work.
 
 - **A backup is not real until you test the restore.**
 - **Measure first, then optimize.**
 - **Automate everything you do more than twice.**
 - **Plan every change, and have a rollback.**
+- **Monitor early, so problems are found before users find them.**
 - **Simple designs fail less.**
 
 ---
@@ -148,5 +162,9 @@ I am building small public labs with **sample data only**. No company code or da
 ## 📫 Let's connect
 
 - 💼 LinkedIn: [linkedin.com/in/memeaung](https://linkedin.com/in/memeaung)
+
+---
+
+<sub>⚠️ **Disclaimer:** All projects and scripts in my public repositories use sample data only. They do not contain code, data, or configuration from my employers. Where I use ideas from the community, I give credit to the original author.</sub>
 
 <p align="center"><i>Thanks for visiting! Feel free to say hello. ⭐</i></p>
