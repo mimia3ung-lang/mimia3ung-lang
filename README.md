@@ -1,14 +1,21 @@
 <h1 align="center">Hi, I'm Me Me Aung 👋</h1>
 
-<h3 align="center"> Database Administrator • Database Engineer • Database Reliability</h3>
+<h3 align="center"> Database Administrator • Database Engineer • Database Reliability Engineer</h3>
 
 <p align="center">
-I bring 9+ years of experience supporting enterprise database environments across banking and semiconductor industries, with a focus on **mission-critical systems, 24/7 production support, business continuity, and high availability**.
+  Database administration with <b>10 years</b> of experience in banking and semiconductor sectors.<br/>
+  I keep <b>mission-critical databases available 24/7</b> with high availability, disaster recovery, performance tuning, and automation.<br/>
+</p>
 
-My expertise spans Oracle, PostgreSQL, MySQL, and SQL Server, including performance tuning, HA/DR, database migrations, monitoring, and automation.
+<p align="center">
+  Oracle is my main platform (RAC, Data Guard, GoldenGate, OCI).<br/>
+  I also work with <b>PostgreSQL, MySQL, and SQL Server</b>.
+</p>
 
-I'm expanding my skills in **Cloud Engineering, DevOps, Infrastructure as Code, and modern data platforms**, combining my database experience with cloud technologies and automation to build reliable, secure, and scalable infrastructure.
-
+<p align="center">
+  I am completing a <b>Master of Computer and Information Sciences</b> at Auckland University of Technology.<br/>
+  At the same time, I am building skills in <b>Terraform, Kubernetes, and cloud automation</b><br/>
+  to grow into database reliability and cloud database engineering.
 </p>
 
 <p align="center">
