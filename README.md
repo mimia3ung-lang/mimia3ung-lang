@@ -120,7 +120,9 @@ I am building small public labs with **sample data only**. No company code or da
 - ✅ Oracle Database 11g: Administration II (OCP)
 - ✅ Oracle Database 11g: Administration I (OCA)
 
-🎓 **Education:** Bachelor of Computer Science, University of Computer Studies, Thaton, Myanmar
+🎓**Education:**
+- Master of Computer and Information Sciences, Auckland University of Technology, New Zealand
+- Bachelor of Computer Science, University of Computer Studies, Thaton, Myanmar
 
 ---
 
