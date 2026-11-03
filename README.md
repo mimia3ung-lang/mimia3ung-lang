@@ -12,9 +12,7 @@
 </p>
 
 <p align="center">
-  I am completing a <b>Master of Computer and Information Sciences</b> at Auckland University of Technology.<br/>
-  At the same time, I am building skills in <b>Terraform, Kubernetes, and cloud automation</b><br/>
-  to grow into database reliability and cloud database engineering.
+  I'm expanding my skills in <strong>Cloud Engineering, DevOps, Infrastructure as Code (IaC), and modern data platforms</strong>, combining my database experience with cloud technologies and automation to build reliable, secure, and scalable infrastructure.
 </p>
 
 <p align="center">
