@@ -84,29 +84,27 @@
 
 ---
 
-## 📈 Results I'm proud of
+## Production Database Projects
 
-- 🚀 Led the migration and **Oracle 19c upgrade of 50+ databases in 6 months** with **zero business impact**.
-- ⚡ Tuned a daily data export job from **2 h 30 min to 14 min**.
-- ☁️ Migrated legacy databases to **Oracle Cloud (OCI)**, reducing downtime and enabling flexible resources.
-- 💰 Helped reduce **Oracle license costs** through a database consolidation project.
-- 🔁 Moved a standalone database to a **two-node RAC cluster** and added GoldenGate for scalability and replication.
-- 🏦 Built **RAC databases with Data Guard on Exadata** for mission-critical banking systems.
+- **Oracle 19c migration and upgrades** — Led the migration and upgrade of **50+ Oracle databases in six months** with **zero business impact**.
+- **Data export performance tuning** — Cut a daily export job’s runtime from **2 hours 30 minutes to 14 minutes**.
+- **Oracle Cloud migration** — Migrated legacy databases to OCI, reducing downtime and making it easier to adjust resources.
+- **Database consolidation** — Helped reduce Oracle licensing costs by consolidating databases.
+- **Oracle RAC and GoldenGate** — Moved a standalone database to a two-node RAC cluster and configured GoldenGate replication.
+- **Exadata high availability and disaster recovery** — Built Oracle RAC databases with Data Guard for mission-critical banking systems.
 
 ---
 
-## 🚧 Public projects (in progress)
+## Hands-on Labs
 
-I am building small public labs with **sample data only**. No company code or data.
+These labs use sample data and lab code.
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| **oracle-rman-backup-lab** | Backup and restore scripts with restore testing | Oracle, RMAN, Bash | 🚧 Planned |
-| **dataguard-monitoring-scripts** | Scripts to check Data Guard lag and send alerts | Oracle, Shell | 🚧 Planned |
-| **oracle-patching-ansible** | Ansible playbook for pre-patch checks | Ansible, Linux | 🚧 Planned |
-| **oracle-to-postgres-migration-lab** | Step-by-step migration with lessons learned | Oracle, PostgreSQL, ora2pg | 🚧 Planned |
-| **awr-tuning-playbook** | Slow query examples, AWR analysis, and fixes | Oracle, SQL | 🚧 Planned |
-| **db-monitoring-stack** | Database health dashboards and alerts | Prometheus, Grafana, Docker | 🚧 Planned |
+| Lab | What I did | Tools |
+|---|---|---|
+| **PostgreSQL High Availability on Amazon EKS** | Deployed PostgreSQL across multiple Availability Zones. Deleted the primary pod and observed a standby being promoted. | Amazon EKS, Crunchy Postgres Operator, Patroni |
+| **PostgreSQL Operations on Minikube** | Created a PostgreSQL cluster configured for three instances, set up Prometheus and Grafana, and investigated an admission webhook connection failure. | Minikube, CloudNativePG, Helm, Prometheus, Grafana |
+
+
 
 ---
 
