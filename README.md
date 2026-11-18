@@ -103,6 +103,10 @@ These labs use sample data and lab code.
 |---|---|---|
 | **PostgreSQL High Availability on Amazon EKS** | Deployed PostgreSQL across multiple Availability Zones. Deleted the primary pod and observed a standby being promoted. | Amazon EKS, Crunchy Postgres Operator, Patroni |
 | **PostgreSQL Operations on Minikube** | Created a PostgreSQL cluster configured for three instances, set up Prometheus and Grafana, and investigated an admission webhook connection failure. | Minikube, CloudNativePG, Helm, Prometheus, Grafana |
+| **PostgreSQL Operations on Minikube** | Created a PostgreSQL cluster configured for three instances, set up Prometheus and Grafana, and investigated an admission webhook connection failure. | Minikube, CloudNativePG, Helm, Prometheus, Grafana |
+| **PostgreSQL Operations on Minikube** | Created a PostgreSQL cluster configured for three instances, set up Prometheus and Grafana, and investigated an admission webhook connection failure. | Minikube, CloudNativePG, Helm, Prometheus, Grafana |
+| **PostgreSQL Operations on Minikube** | Created a PostgreSQL cluster configured for three instances, set up Prometheus and Grafana, and investigated an admission webhook connection failure. | Minikube, CloudNativePG, Helm, Prometheus, Grafana |
+| **PostgreSQL Operations on Minikube** | Created a PostgreSQL cluster configured for three instances, set up Prometheus and Grafana, and investigated an admission webhook connection failure. | Minikube, CloudNativePG, Helm, Prometheus, Grafana |
 
 
 
@@ -116,7 +120,7 @@ These labs use sample data and lab code.
 - ✅ Oracle Database 19c: RAC, ASM, and Grid Infrastructure Administrator
 - ✅ Oracle Database 12c: RAC and Grid Infrastructure Administrator
 - ✅ Oracle Database 11g: Administration II (OCP)
-- ✅ Oracle Database 11g: Administration I (OCA)
+
 
 🎓**Education:**
 - Master of Computer and Information Sciences, Auckland University of Technology, New Zealand
