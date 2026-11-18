@@ -86,12 +86,114 @@
 
 ## Production Database Projects
 
-- **Oracle 19c migration and upgrades** — Led the migration and upgrade of **50+ Oracle databases in six months** with **zero business impact**.
-- **Data export performance tuning** — Cut a daily export job’s runtime from **2 hours 30 minutes to 14 minutes**.
-- **Oracle Cloud migration** — Migrated legacy databases to OCI, reducing downtime and making it easier to adjust resources.
-- **Database consolidation** — Helped reduce Oracle licensing costs by consolidating databases.
-- **Oracle RAC and GoldenGate** — Moved a standalone database to a two-node RAC cluster and configured GoldenGate replication.
-- **Exadata high availability and disaster recovery** — Built Oracle RAC databases with Data Guard for mission-critical banking systems.
+### 1. Database Migration and Upgrade: ExaCC Gen 1 → ExaCC Gen 2
+**Role:** Senior Database Administrator · **Industry:** Investment banking
+
+I invloved the migration of production databases from an older Oracle Exadata Cloud@Customer (Gen 1) platform to new Gen 2 hardware. Each database was also upgraded to a newer Oracle version during the move.
+
+- Planned migration and upgrade together to reduce the number of change windows
+- Kept downtime to a minimum for business-critical applications
+- Followed change management and kept stakeholders informed
+- **Result:** 100+ databases moved to the new platform and upgraded with minimal downtime
+
+**Stack:** Oracle ExaCC, Oracle RAC, Data Guard, GoldenGate
+
+---
+
+### 2. Database Migration and Upgrade: On-Premises → New On-Premises Servers
+**Role:** Senior Database Administrator · **Industry:** Investment banking
+
+I led the migration of production databases from obsolete on-premises servers to new on-premises infrastructure, with a version upgrade for each database.
+
+- Replaced old hardware and moved databases to supported Oracle versions at the same time
+- Tested and planned cutovers to protect application availability
+- **Result:** 70+ databases moved to modern, supported infrastructure with minimal downtime
+
+**Stack:** Oracle Database, RAC, Data Guard
+
+---
+
+### 3. Database Lifecycle and Decommission Programme
+**Role:** Senior Database Administrator · **Industry:** Investment banking
+
+I led a project to upgrade obsolete legacy databases and decommissioned the unused ones.
+
+- **Result:** Lower licence costs, less technical debt, and a platform on supported, secure versions
+
+**Stack:** Oracle Database, Shell, Ansible
+
+---
+
+### 4. Capacity Planning for On-Premises Databases
+**Role:** Senior Database Administrator · **Industry:** Investment banking
+
+I forecasted storage, CPU, and memory needs to support business growth.
+
+- **Result:** Capacity-related incidents were prevented, and performance stayed stable
+
+**Stack:** Oracle Database, monitoring tools
+
+---
+
+### 5. Annual Data Reorganisation of a Multi-Terabyte Schema
+**Role:** Senior Database Administrator · **Industry:** Investment banking
+
+I planned and ran a yearly reorganisation of a large, fast-growing schema.
+
+- **Result:** About **68% of the schema size reclaimed**, better application performance, and lower storage costs
+
+**Stack:** Oracle Database, SQL tuning, partitioning
+
+---
+
+### 6. Single-Instance to Clustered Database Migration
+**Role:**  Database Administrator · **Industry:** Semiconductor manufacturing
+
+I led the migration of a single-instance database to a clustered environment and added replication.
+
+- **Result:** Better scalability, higher availability, and more efficient replication
+
+**Stack:** Oracle RAC, replication, Shell
+
+---
+
+### 7. Database Consolidation and Enterprise Monitoring
+**Role:** Database Administrator · **Industry:** Semiconductor manufacturing
+
+I reduced the number of Oracle databases and set up Oracle Enterprise Manager monitoring across production.
+
+- **Result:** Lower licence costs, a simpler platform, better alerts, and faster incident resolution
+
+**Stack:** Oracle Enterprise Manager, Oracle Database, Shell
+
+---
+
+### 8. Critical Payment Database Migration (Windows → Linux)
+**Role:** Database Engineer · **Industry:** Retail banking
+
+I migrated the database of a critical payment system from Windows to Linux.
+
+- **Result:** Better performance, more stability, and a standardised platform
+
+**Stack:** Oracle Database, Linux
+
+---
+
+### 9. High Availability Build and Core Banking Migration
+**Role:** Database Engineer / Standby DBA · **Industry:** Retail banking
+
+I built several Oracle RAC databases on Exadata with Data Guard for disaster recovery. I was also the standby DBA during a major core banking migration.
+
+- **Result:** Stronger high availability and a smooth cutover to production
+
+**Stack:** Oracle RAC, Exadata, Data Guard, RMAN, Data Pump
+
+---
+
+## 🛠️ Tech Stack
+**Databases:** Oracle (RAC, Data Guard, GoldenGate, Exadata, ExaCC) · Microsoft SQL Server · PostgreSQL
+**Automation:** Ansible · Shell · Python
+**Tools:** Oracle Enterprise Manager · RMAN · Data Pump
 
 ---
 
