@@ -86,7 +86,7 @@
 ## Production Database Projects
 
 ### 1. Database Migration and Upgrade: ExaCC Gen 1 → ExaCC Gen 2
-**Role:** Senior Database Administrator · **Industry:** Investment banking
+**Role:** Senior Database Administrator · **Industry:** Banking
 
 I invloved the migration of production databases from an older Oracle Exadata Cloud@Customer (Gen 1) platform to new Gen 2 hardware. Each database was also upgraded to a newer Oracle version during the move.
 
@@ -100,7 +100,7 @@ I invloved the migration of production databases from an older Oracle Exadata Cl
 ---
 
 ### 2. Database Migration and Upgrade: On-Premises → New On-Premises Servers
-**Role:** Senior Database Administrator · **Industry:** Investment banking
+**Role:** Senior Database Administrator · **Industry:** Banking
 
 I led the migration of production databases from obsolete on-premises servers to new on-premises infrastructure, with a version upgrade for each database.
 
@@ -113,7 +113,7 @@ I led the migration of production databases from obsolete on-premises servers to
 ---
 
 ### 3. Database Lifecycle and Decommission Programme
-**Role:** Senior Database Administrator · **Industry:** Investment banking
+**Role:** Senior Database Administrator · **Industry:** Banking
 
 I led a project to upgrade obsolete legacy databases and decommissioned the unused ones.
 
@@ -124,7 +124,7 @@ I led a project to upgrade obsolete legacy databases and decommissioned the unus
 ---
 
 ### 4. Capacity Planning for On-Premises Databases
-**Role:** Senior Database Administrator · **Industry:** Investment banking
+**Role:** Senior Database Administrator · **Industry:** Banking
 
 I forecasted storage, CPU, and memory needs to support business growth.
 
@@ -135,7 +135,7 @@ I forecasted storage, CPU, and memory needs to support business growth.
 ---
 
 ### 5. Annual Data Reorganisation of a Multi-Terabyte Schema
-**Role:** Senior Database Administrator · **Industry:** Investment banking
+**Role:** Senior Database Administrator · **Industry:** Banking
 
 I planned and ran a yearly reorganisation of a large, fast-growing schema.
 
@@ -152,7 +152,7 @@ I led the migration of a single-instance database to a clustered environment and
 
 - **Result:** Better scalability, higher availability, and more efficient replication
 
-**Stack:** Oracle RAC, replication, Shell
+**Stack:** Oracle RAC, Golden Gate, Data Guard
 
 ---
 
@@ -168,18 +168,18 @@ I reduced the number of Oracle databases and set up Oracle Enterprise Manager mo
 ---
 
 ### 8. Critical Payment Database Migration (Windows → Linux)
-**Role:** Database Engineer · **Industry:** Retail banking
+**Role:** Database Engineer · **Industry:** Banking
 
 I migrated the database of a critical payment system from Windows to Linux.
 
 - **Result:** Better performance, more stability, and a standardised platform
 
-**Stack:** Oracle Database, Linux
+**Stack:** Oracle Database, Data Pump, Linux
 
 ---
 
 ### 9. High Availability Build and Core Banking Migration
-**Role:** Database Engineer / Standby DBA · **Industry:** Retail banking
+**Role:** Database Engineer / Standby DBA · **Industry:** Banking
 
 I built several Oracle RAC databases on Exadata with Data Guard for disaster recovery. I was also the standby DBA during a major core banking migration.
 
