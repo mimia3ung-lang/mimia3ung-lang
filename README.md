@@ -79,8 +79,7 @@
 |--------|------|---------|
 | Dec 2021 – Feb 2026 | Senior Database Administrator | Wipro Limited, Singapore |
 | Jan 2020 – Nov 2021 | Database Administrator | Vanguard International Semiconductor, Singapore |
-| Jul 2017 – Dec 2019 | Database Engineer | AYA Bank, Myanmar |
-| Feb 2016 – Jun 2017 | Database Developer | AYA Bank, Myanmar |
+| Feb 2016 – Dec 2019 | Database Engineer | AYA Bank, Myanmar |
 
 ---
 
